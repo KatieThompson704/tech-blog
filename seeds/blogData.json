@@ -1,0 +1,14 @@
+[
+  {
+    "title": "JavaScript Junkie",
+    "content": "This client-side scripting language allows users to create dynamic content for web applications. This was one of my first programming languages."
+  },
+  {
+    "title": "HTML Hell",
+    "content": "Today is my very first day using HTML. I cannot seem to figure it out! Can someone help me find free resources for getting started in HTML?"
+  },
+  {
+    "title": "JAVA JAVA JAVA",
+    "content": "According to wikipedia, Java is a high-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible."
+  }
+]
