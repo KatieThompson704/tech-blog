@@ -1,22 +1,22 @@
 [
   {
     "name": "Katie",
-    "email": "thomkat@gmail.com",
+    "username": "thomkat",
     "password": "password12345"
   },
   {
     "name": "Cooper",
-    "email": "coopthedog@gmail.com",
+    "username": "coopthedog",
     "password": "password12345"
   },
   {
     "name": "Mikey",
-    "email": "mtlank@gmail.com",
+    "username": "mtlank",
     "password": "password12345"
   },
   {
     "name": "Patty",
-    "email": "plank@gmail.com",
+    "username": "plank",
     "password": "password12345"
   }
 ]
