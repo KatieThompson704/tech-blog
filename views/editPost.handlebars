@@ -1,0 +1,19 @@
+<div class="container">
+  {{#if edit}}
+    <h1>Show Inputs</h1>
+  {{else}}
+    <div class="text-center">
+      <h1>{{name}}</h1>
+      <p>{{{get_emoji}}}</p>
+      <h2>{{title}}</h2>
+      <p>{{content}}</p>
+      <p>Created by {{user.name}} on {{format_date date_created}}</p>
+
+      <p>
+        <button value="read" class="btn btn-primary" id="edit">edit</button>
+      </p>
+    </div>
+  {{/if}}
+</div>
+
+<script src="/js/edit.js"></script>
